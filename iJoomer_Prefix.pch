@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'iJoomer' target in the 'iJoomer' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+
+    #import "AppConstantsList.h"
+#endif
+
+

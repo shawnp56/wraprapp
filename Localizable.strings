@@ -1,0 +1,634 @@
+// Titles
+"compose_title"             = "Compose";
+"Login_title"				= "Login";
+"Reg_title"					= "Registration";
+"Profile_title"             = "Profile";
+"Message_title"				= "Messages";
+"Inbox_title"				= "Inbox";
+"between_title"             = "Between You and";
+"Outbox_title"				= "Sent";
+"WriteMsg_title"			= "Write";
+"Update_title"				= "Updates";
+"Friends_title"				= "Friends";
+"Members_title"				= "Members";
+"Gallery_title"				= "Gallery";
+"Photo_Album_title"			= "Photo Albums";
+"Photo_title"				= "Photos";
+"Video_Album_title"			= "Video Albums";
+"Video_Detail_Album_title"	= "Video Details";
+"Settings_title"			= "Settings";
+"Favourites_title"			= "Favourites";
+"privacy_title"				= "Privacy";
+"Notification_title"		= "Notification";
+"email_notification"		= "Email Notification";
+"push_notification"         = "Push Notification";
+"Friend_Request_title"		= "Friend Request";
+"Poll_title"				= "Poll";
+"Past_polls_title"			= "Past Polls";
+"Poll_Results"				= "Poll Results";
+"Wall_title"				= "Wall";
+"serversetting_title"		= "Server Setting";
+"more_title"				= "Home";
+"Search_title"				= "Search";
+"JReview_title"				= "JReview";
+"article_detail_title"		= "Article Detail";
+"AddReview_title"			= "Post Review";
+"Reviews_Title"				= "Reviews";
+"Options_Title"				= "Options";
+"group_title"			    = "Groups";
+"group_detail_title"		= "Group Details";
+"Blog_title"				= "Blogs";
+"store_title"				= "Store";
+"email_title"				= "Ask question about product";
+"photo_title"               = "Photos";
+"video_title"               = "Videos";
+"view_detail"               = "View Details";
+"send_msg"					= "Send Message";
+"Event_title"               = "Events";
+"nearby_title"				= "Nearby";
+"title"                     = "Title";
+"reply_title"               = "Reply List";
+"kunena_title"              = "Forum";
+"event_title"				= "Events";
+"all_event_title"			= "All";
+"my_event_title"			= "My";
+"jom_event_title"			= "Events";
+"pending_event_invitations" = "Pending";
+"past_events"				= "Past";
+"event_options_title"		= "Event Options";
+"edit_group"                = "Edit Group";
+"leave_title"               = "Leave";
+"join_title"                = "Join";
+
+"button_favorite"           = "Favorite";
+"button_recent"             = "Recent";
+"button_subscribed"         = "Subscribed";
+"button_unsubscribed"       = "Unsubscribed";
+"button_mytopics"           = "My Topics";
+"alert_required"            = "You Are required to login";
+"create_topic_title"        = "Create New Topic";
+"reply_title"               = "Your Reply";
+"reply_done"                = "Reply Done!";
+"topiccreate_title"         = "Topic Successfully Created!";
+"login_required"            = "Not Logged In!";
+//"favorite_title"            = "Mark As favorite";
+//"unfavorite_title"          = "Mark As Unfavorite";
+"favorite_title"            = "Favorite";
+"unfavorite_title"          = "Unfavorite";
+"seereplies_title"          = "See Replies";
+"forums_title"              = "Forums";
+
+
+//Twitter
+"alert_body_twitter"		= "Error while sharing on Twitter, please try again.";
+"alert_body_twitter_shared"	= "Shared on Twitter.";
+"shareMessage"				= "I found something.\n Name : %@\n URL : %@";
+
+// view details
+"n/a"						= "N/A";
+"NoRecords"					= "No Records Found";
+
+// pop up titles
+"Done_title"				= "Done";
+"no_user"					= "No User";
+"cam"						= "From Camera";
+"gallery"					= "From Gallery";
+"addPic"					= "Add Photo";
+"alert_error"				= "Alert !!";
+"alert"						= "Alert !!";
+"Sorry"						= "Sorry!";
+"alert_delete_event"        = "Do U want to delete this event?";
+
+
+// Alert Content
+"select_option"				= "Please select an option to vote.";
+"alert_vote"				= "You have already given your vote for today.";
+"alert_vote_sucess"			= "Your vote registered successfully.";
+"alert_body_server"			= "Please try again later, server encountered some problem...";
+"sure_set_cover"            = "Are you sure set this photo as cover page?";
+"cover_photo_success"       = "Your cover photo sucessfully changed";
+"alert_session"				= "session error";
+"alert_session_error"		= "session error...";
+"alert_warning_invalid"		= "Invalid Option";
+
+"alert_server_settings"		= "Permissions";
+"alert_privacy_settings"	= "You dont have permission !!!";
+"alert_body_url"			= "Blank URL value not allowed.";
+"sure_cancel"				= "Are you sure you want to cancel?";
+"sure_deleteAlbum"          = "Are you sure you want to delete ";
+"Message"					= "Message";
+
+"improper_content"			= "Please fill all required details.";
+"alert_review_success"		= "Review posted successfully.";
+"alert_review_error"		= "You have already posted the review.";
+
+// Facebook
+"alert_body_fb_sharing"		= "Error while sharing on Facebook, please try again.";
+"alert_body_fb_connecting"	= "Error while connecting to Facebook, please try again.";
+
+//No network alert
+"alert_oops"                = "Oops!";
+"alert_success"				= "Success";
+"alert_no_network"          = "Check Data Connection or WiFi";
+"alert_no_connection"       = "Connection error, please try again.";
+"alert_cancel_btn_title"    = "OK";
+"ok_title"                  = "OK";
+
+//WallViewController
+"no_text"					= "No Text !!!";
+"Please_enter_text"			= "Please enter text";
+"Whats_in_Mind"			    = "What's on your Mind";
+"post_comment"				= "Post comment on wall";
+"Comment"					= "Comment";
+"Whats_on_Mind"			    = "Whats on your Mind?";
+
+
+//LoginViewController
+"invalid_username_pass"		= "Invalid Username or Password";
+"invalid_password"			= "Invalid Password";
+"http_error"				= "HTTP Error";
+"msg_location"				= "Waiting for location details...";
+"msg_login"					= "Login to server...";
+"email_exist"               = "Email already exist";
+"username_exist"            = "Username already exist";
+
+//RegisterViewController
+"reg_failed"				= "Registration Failed.";
+"reg_success"				= "Registration Succeeded.\nCheck mail for Activation Link.";
+"user_exist"				= "User Already exists.";
+"check_id"					= "Check ID!";
+"thnx"						= "Thanks!";
+"invalid_mail"				= "Invalid Mail ID.";
+"invalid_image"				= "Please select user image.";
+"invalid_type"				= "Please select profile type.";
+
+// MainPageViewController
+"no_user"					= "No User Detail Available";
+"no_user_status"			= "Please fill details";
+"r_u_sure"					= "Are you sure?";
+"yes"						= "Yes, I'm Sure!";
+"No"                        = "No";
+"update_success"			= "Profile Successfully updated!";
+"logout_msg"				= "Logout Successfully";
+"logged_out"				= "Logged Out";
+"Main_page_title"           = "Profile";
+
+//WriteMessageViewController
+"invalid"					= "Invalid!";
+"invalid_msg"				= "Please Fill all the details";
+"empty_msg"                 = "Message can not be blank.";
+"not_delivered"				= "Message not delivered";
+"success"					= "Success!";
+"msg_sent"					= "Message Sent";
+"reply_add"                 = "Reply Added";
+"no_way"					= "No way!";
+"urself"					= "You can not send message to yourself";
+
+//User details controller
+"no_details"				= "No details";
+"yet_to_be_filled"			= "Details are yet to be filled.";
+"updated_successfully"		= "User Details Successfully updated!";
+"invalid_no"				= "Mobile number is invalid.";
+
+//FriendViewController
+"addFriend"					= "Add Friend";
+"already_friend"            = "Already Friends";
+"sure_remove"               = "You want to remove this friend";
+"waiting"					= "Request waiting for approve";
+
+//PhotoViewController
+"no_image"					= "No image in the album.";
+"uploading"					= "Uploading...";
+"photo_uploaded"			= "Photo uploaded successfully";
+"Add_From_YouTube"          = "Add Video From Youtube";
+
+//group
+
+"all_group_title"           = "All";
+"my_group_title"            = "My";
+"pending_title"             = "Pending";
+"search_group"              = "Search Group";
+"Video_title"               = "Videos";
+"Group_options_title"       = "Group Options";
+"button_close"              = "Close";
+"member_list"               = "Members";
+"Reload"                    = "Refresh";
+"create_group"              = "Create Group";
+"create_bulletin"           = "Create Bulletin";
+"admin_list"                = "Admin";
+"create_discussion"         = "Create Discussion";
+
+"button_save"               = "Save";
+"sure_deletebulletin"       = "Are You sure You Want To Delete this Bulletin?";
+"reply_delete"              = "Deleted";
+"sure_delete_photo"         = "Are You Sure You Want To Delete this photo?";
+"set_new_image1"            = "New Group Image uploaded";
+"remove_user_que1"          = "Are you sure you want to remove this user from Group?";
+"block_user_que1"			= "Also ban this user?";
+"button_unlock"             = "Unlock";
+"button_lock"               = "Lock";
+"button_revert"             = "Revert Admin To User";
+"button_ban"                = "Ban";
+"button_unban"              = "UnBan";
+"button_admin"              = "Set as Admin";
+//"sure_unjoin"               ="Unjoin";
+"sure_cancel"				= "Are you sure you want to cancel?";
+"sure_delete"               = "Are you sure you want to delete";
+"sure_join"                 = "Are You Sure Want To Join";
+"sure_unjoin"               = "Are You Sure Want To UnJoin";
+"sure_unpublish"            = "Are You Sure Want To UnPublish";
+"report_group"              = "Report Group";
+"accept_invitation"         = "You have accepted the invitation";
+"reject_title"              = "You have rejected the invitation";
+"like_this_comment"         = "like this comment";
+"moreresult_title"          = "Get more results...";
+"Congratulations_title"     = "Congratulations";
+"join_alert_title"          = "You have Succefully joined";
+"unjoin_alert_title"        = "You have Succefully unjoined";
+"like_alert_title"          = "You have liked this group";
+"unlike_alert_title"        = "You have unliked this group";
+"delete_alert_title"        = "You have deleted this group";
+"unpublished_alert_title"   = "You have unpublished this group";
+"accept_alert_title"        = "You have accepted the invitation";
+"reject_alert_title"        = "You have rejected the invitation";
+"friend_list"               = "Friend list";
+"banned_list"               = "Ban list";
+"group_created_successfully" = "Group Created Successfully!";
+"group_edited_successfully"  = "Group Edited Successfully!";
+"create_announcement"       = "Create Announcement";
+"sure_deletediscuss"        = "Are you sure you want to delete this discussion and all its replies?";
+"discussion_edited"         = "Discussion edited";
+"discussion_added"          = "Discussion added";
+"announcement_added"        = "Announcement added";
+"announcement_edited"       = "Announcement edited";
+"email_sent"                = "Email Sent";
+"announcements_title"       = "Announcements";
+"discussion_title"          = "Discussion";
+"invited"                   = "Invited";
+"discussion_locked"         = "This discussion has been locked";
+"delete_recipient"          = "Want to delete recipient?";
+
+
+
+//PhotoDetailViewContrller
+"img_saved"					= "Image Downloaded!";
+"img_save_msg"				= "The image was successfully saved to the iPhone photo album!";
+"no_comment"                = "No comments yet.";
+
+//Video
+"addvideo"					= "Add Video";
+"add_video_detail"			= "Add Video Details";
+"video_name"				= "Video Name";
+"video_desc"				= "Video Description";
+"video_uploaded"			= "Video uploaded successfully";
+"version_invalid"			= "Version Invalid!!";
+"invalid_version_detail"	= "Your Version is lower than iOS 3.1.3 or not a 3GS";
+
+//RequestViewController
+"request_accepted"			= "Friend request has been accepted.";
+"request_rejected"			= "Friend request has been rejected.";
+
+//AlbumViewController
+"album_name"				= "Album Name";
+"album_decs"				= "Album Description";
+"add_album"					= "Add Album";
+"button_exit"				= "Exit";
+"album_not_created"			= "Can not create album without name";
+"added_album"               = "New album created";
+
+//SettingsViewController
+"photos"					= "Photos";
+"sysEmail"					= "System Emails";
+"appication"				= "Application";
+"wallComment"				= "Wall Comment";
+"settings_updated"			= "Settings Updated Successfully!";
+"theme"						= "Theme";
+"Appearance"				= "Appearance";
+"friend_online"             = "Friend Online";
+"mail_received"             = "Mail Received";
+"friend_request"            = "Friend Request";
+
+// button titles
+"button_Sign_Up"            = "Sign Up";
+"button_cancel"             = "Cancel";
+"button_Login"              = "Login";
+"button_logout"             = "Logout";
+"button_register"			= "Continue";
+"button_takephoto"          = "Take photo";
+"button_choose"             = "Choose From Library";
+"button_refresh"            = "Refresh";
+"button_reply"				= "Reply";
+"button_download"			= "Download";
+"button_save"				= "Save";
+"button_back"				= "Back";
+"button_map"				= "Map";
+"button_vote"				= "Vote";
+"button_result"				= "Result";
+"button_history"			= "History";
+"button_post"				= "Post";
+"button_send"				= "Send";
+"like_btn"					= "Like";
+"unlike_btn"				= "Unlike";
+"button_Prev"				= "Previous";
+"button_Next"				= "Next";
+"button_comment"			= "%d Comment";
+"button_like"               = "%d Like";
+"button_inquiry"			= "Inquiry";
+"button_create"             = "Create";
+"button_done"               = "Done";
+"button_add"                = "Add";
+"button_reject"             = "Reject";
+"button_accept"             = "Accept";
+"button_addreply"           = "Add Reply";
+"button_close"				= "Close";
+"button_report"				= "Report";
+"button_addcomment"         = "Add Comment";
+
+
+//button titles
+
+"button_refresh"            = "Refresh";
+"button_reply"				= "Reply";
+"button_download"			= "Download";
+"button_save"				= "Save";
+"button_map"				= "Map";
+"button_vote"				= "Vote";
+"button_result"				= "Result";
+"button_history"			= "History";
+"button_post"				= "Post";
+"button_send"				= "Send";
+"like_btn"					= "Like";
+"unlike_btn"				= "Unlike";
+"button_Prev"				= "Previous";
+"button_Next"				= "Next";
+"button_comment"			= "%d Comment";
+"button_like"               = "%d Like";
+"button_inquiry"			= "Inquiry";
+"button_create"             = "Create";
+"button_reject"             = "Reject";
+"button_accept"             = "Accept";
+"button_addreply"           = "Add Reply";
+"button_close"				= "Close";
+
+
+// FB MESSAGE
+"fb_message"                = "Hi %@, you are currently connecting to the site with Facebook Connect.";
+"fb_new_user"               = "Since this is the first time you are logging in to this site, you are required to fill up some of the details below before we are able to proceed with your account creation.";
+"fb_site_member"            = "If you already have an account with this site, all you need to do is to provide your existing login credentials and we will associate your Facebook login with your existing account.";
+"fb_notice"                 = "* If you are linking your account, your Facebook data will be imported and overwritten to your existing profile including your password.";
+"fb_im"                     = "I am currently ...";
+"fb_newuser_btn"            = "A new user";
+"fb_sitemember_btn"         = "A member of this site";
+"fb_newmember"              = "New Member";
+"fb_extmember"              = "Existing Site Member";
+"lblName"                   = "Name:";
+"lblEmail"                  = "Email:";
+
+// labels
+"lblUsername"               = "Username:";
+"lblPassword"               = "Password:";
+"lblRememberme"             = "Remember";
+"lblEmail"                  = "Email:";
+"lblFrom"                   = "From:";
+"lblTo"                     = "To:";    //write msgs
+"lblSubject"                = "Subject:";
+"lblMessage"                = "Message:";
+"lblProfileCount"			= "Profile View";
+"placeholder_username"		= "Username";
+"placeholder_password"		= "Password";
+"placeholder_name"			= "Name";
+"placeholder_email"			= "Email ID";
+"lblSessionError"			= "Your session has been expired, please login again to continue.";
+"lblnext"					= "Next";
+"lblprev"					= "Previous";
+"friends_request"			= "Friend Request";
+"unread_msg"				= "Unread Message";
+"global_notification"       = "Global Notifications";
+"status_msg"				= "Status Message";
+"loading"					= "Loading...";
+"new_member"                = "New Member";
+"new_member_desc"           = "Please enter Username to proceed with your account creation.\n\n";
+"no_notification"           = "You have no notification.";
+"category_title"			= "Category";
+"subcategory_title"         = "Sub Category";
+"article_title"             = "Article";
+"add_new"					= "Add New";
+"new_article"				= "New Article";
+"be_first"                  = "Be the first to add a comment";
+"addfriend_msg"             = "message to user";
+"delete_success_msg"		= "Message deleted successfully";
+"approval_msg"              = "Request sent waiting for approval";
+"page_count"				= "Page %d of %d";
+"lblYes"                    = "Yes";
+"lblNo"                     = "No";
+"lbl_predefinedreport"       = "Predefined reports";
+"lbl_reportmsg"             = "Report message";
+
+
+// Jom event options
+"edit_avatar_successful"        = "Avatar edited Successfully";
+"edit_event_avatar"				= "Edit Avatar";
+"send_email_to_participants"	= "Send email to guests";
+"response_event"				= "Your Response";
+"delete_event"					= "Delete Event";
+"report_event"					= "Report Event";
+"report_success"				= "Thank you for your message, an administrator will take care of as quickly as possible so..";
+"delete_success"				= "Event Deleted Successfully.";
+"invite_friends"				= "Invite Friends";
+"invite_success"				= "invitation sent successfully";
+"admin_list"					= "Admin List";
+"guest_list"					= "Guest List";
+"awaiting_list"					= "Awaiting List";
+"ignore_event"					= "Ignore Event";
+"ignore_success"				= "Successfully Ignore Event";
+"share_event"					= "Share this";
+"event_deleted"					= "Event Deleted";
+"import_event"					= "Import Event from iCal";
+"share_on_facebook"				= "Facebook";
+"share_on_twitter"				= "Twitter";
+"share_on_both"					= "Both";
+"alert_body_twitter"			=  "Error while sharing on Twitter, try again.";
+"Alert_body_fb_shared"			=  "";
+"time"                          = "Time";
+//"test_msg"						= "%@index.php?option=com_community&view=events&task=viewevent&eventid=%d";
+"alert_body_fb_shared"			= "Message shared on Facebook.";
+"Alert_body_fb"					= "Error while sharing on Facebook, try again.";
+
+"button_retweet"				= "Retweet";
+"Email_sent"					= "Email sent successfully";
+"Response_title"				= "Your Response";
+"Attending_or_not"				= "Do you take part in this event?";
+"maybe_title"					= "Maybe";
+"delete_alert"					= "Alert";
+"Delete_critarea"				= "Deletion criteria do not fit";
+"u_r_attending"					= "You will participate in this event.";
+"u_r_not_attending"				= "You take no part in this event.";
+"u_r_may_not_attending"			= "Maybe you take part in this event.";
+"unlimited_seats"				= "Unlimited seats";
+"set_new_image"					= "New Event Image successfully updated.";
+"msg_empty"						= "Message can not be blank";
+"remove_user"					= "Remove";
+"send_mail"                     = "Send mail";
+"unpublish"                     = "Unpublish";
+"set_user_type"					= "Status changed";
+"set_user_type_success"			= "Starus of the user for this event changed.";
+"remove_from_admin"				= "Removed by admin-list";
+//"remove_as_admin"				= "Funktion "Gast" ausgewählt.";
+"remove_from_waiting"			= "Remove from the waiting list";
+"remove_as_member"				= "The selected user is removed from this event.";
+"set_as_member"					= " Set as a registered participant";
+"ret_member_success"			= "The selected user successfully registered as a participant.";
+"alert_block"					= "Alert Access!";
+"alert_no_access"				= "ACCESS DENIED";
+"blocked_list"					= "Blocked guests";
+"create_event"					= "Create Event";
+"alert_unblock"					= "Unblock";
+"unblock_success"				= "Selected user successfully unlocked.";
+"remove_from_list"				= "Remove";
+"remove_success"				= "User has been removed from this event.";
+"block_user_que"				= "Also block this user?";
+"remove_user_que"				= "Are you sure you want to remove this user from Event?";
+"unblock_user_que"				= "Are you sure you want to remove this user form block list?";
+"block_success"					= "Selected user has been successfully blocked.";
+"event_wall_list"				= "Event Wall";
+"map_ristricted"				= "Map is restricted...!";
+"no_more_friend_to_invite"		= "You have invited any friends here yet and already all friends.";
+"your_response"					= "Your Response";
+"special_gallery_title"			= "Special Gallery";
+"jom_special_event_title"		= "Special Events";
+"edit_event"					= "Edit";
+"duplicate_event"				= "Duplicate";
+"edit_avatar"					= "Edit Avatar";
+"send_email"					= "E-Mail send";
+"on"                            = "On";
+"off"                           = "Off";
+"guests_title"                  = "Guests are attending.";
+"guest_title"                   = "Guest is attending.";
+"seatsavailable_title"          = "Seats available";
+"eventcreator_title"            = "Event Creator";
+"response_event_title"          = "Are you attending this event?";
+"attend"                        = "Attend";
+"not_attend"                    = "Not Attend";
+"start_title"                   = "Start";
+"event_save_success"            = "Event saved successfully!";
+"response_event_title"          = "What is your response to this event?";
+
+"sure_delete_announcement"      = "Are You sure you want to delete the announcement?";
+"location_title"                = "Location";
+"video_error"                   = "Video content is not available";
+
+
+
+
+//"image_logo"                    ="logo.png";
+"alert_review_already_added"    = "You already have written a review for this product. Thank you.";
+"alert_coupon_error"            = "Coupon code not found!! Please try again";
+"alert_cart_error"              = "Cart is empty";
+"alert_invalid"                 = "Invalid";
+"stock_msg"                     = "Stock Unavailable";
+"search_msg"                    = "Please Enter Search Keyword";
+"in_stock"                      = "In Stock";
+"out_of_stock"                  = "Out of Stock";
+"Shipping Method"               = "Shipping Method";
+"Payment Method"                = "Payment Method";
+"next"                          = "Next";
+"Product Detail"                = "Product Detail";
+"Review"                        = "Review";
+"Products"                      = "Products";
+"Add"                           = "Add";
+"Edit"                          = "Edit";
+"Billing Address"               = "Billing Address";
+"state_msg"                     = "please select a state";
+"search_msg"                    = "Please Enter Search Keyword";
+"Login"                         = "Login";
+"Logout"                        = "Logout";
+"Search"                        = "Search";
+"category"                      = "Category";
+"subcategory"                   = "Subcategory";
+"Category_title"				= "jCategory";
+"WishList_title"				= "WishList";
+"Cart_title"					= "Cart";
+"Login_title"					= "Login";
+"Product_title"					= "Product";
+"featured"                      = "Featured";
+"FeaturedProduct_title"			= "Featured Product";
+"AddReview_title"				= "AddReview";
+"invalid_msg"					= "Please Fill All The Detail";
+"invalid_mail"					= "Invalid EmailID";
+"alert_invalid"                 = "Invalid";
+"stock_msg"                     = "Stock Unavailable";
+"wishlist_msg"                  = "Please Enter Wishlist Name";
+"review_title"                  = "Review";
+"my account"                    = "My Account";
+//Button
+
+"button_Cancel"					= "Cancel";
+"button_edit"                   = "Edit";
+"button_AddToWishlist"			= "AddToWishlist";
+"button_AddToCart"				= "AddToCart";
+"button_Back"					= "Back";
+"button_Save"					= "Save";
+"button_Register"               = "Register";
+"button_LogOut"                 = "LogOut";
+"no_way"					    = "No way!";
+"btn_done"						= "done";
+"button_Checkout"				= "Checkout";
+"button_save"                   = "Save";
+"discount"                      = "discount";
+//Login
+"logout_msg"				    = "Logout Successfully";
+"logged_out"				    = "Logged Out";
+"email_msg"                     = "For details check Email";
+
+"http_error"					= "HTTP Error";
+"msg_location"					= "Waiting for location details...";
+"msg_login"						= "Login to server...";
+"alert_notice"                  = "Notice";
+"alert_coupon_error"            = "Coupon code not found!! Please try again";
+"alert_cart_error"              = "Cart is empty";
+"cart_success"                  = "Info: The product has been added to your cart";
+"sry"							= "Sorry !";
+
+//Article
+"photo_limit"                = "Photo upload limit exceeded";
+"submit_title"               = "Submit";
+"sure_lock"                  = "Lock";
+"edit_success"               = "Article edited successfully";
+"upload_photo"               = "Upload Photo";
+"upload_file"                = "Upload File";
+
+
+//group
+"sure_lock"                 = "Are you sure you want to lock the discussion?";
+"sure_unlock"               = "Are you sure you want to unlock the discussion?";
+"set_as_admin"              = "Member is now group admin.";
+"title"                     = "Title";
+"delete"                    = "Delete";
+
+"pastguests_title"                  = "Guests were attending.";
+"pastguest_title"                   = "Guest was attending.";
+
+"private_group_awaiting_msg"        = "This is a private group \nYour request is awaiting approval from group administrator.";
+"private_group"                     = "This is a private group.";
+"private_event_awaiting_msg"        = "This is a private event \nYour request is awaiting approval from event administrator.";
+"private_event"                     = "This is a private event.";
+
+"request_approval"                  = "Request for approval";
+"view_title"                        = "Views";
+"post_data_success"                 = "Data posted successfully.";
+"name_value"                        = "{\"value\":\"%@\",\"name\":\"%@\"}";
+"announcement"                      = "Announcement";
+"discussion"                        = "Discussion";
+"activities"                        = "Activities";
+"delete_comment"                    = "Are you sure want to detele selected comment?";
+"sure_deleteMsg"                    = "Are you sure want to detele full conversation?";
+"sure_deleteReply"                  = "Are you sure want to detele selected reply?";
+"delete_photo"                      = "Are you sure want to remove this photo from ";
+
+"select_friend"                     = "Please Select Friend to invite";"empty_link"                        = "Plsase insert link.";
+"empty_path"                        = "Please select video.";
+"empty_title"                       = "Please provide title to video.";"empty_title"                       = "Please provide title to video.";
+
+"remove_discussion"            = "Remove Discussion";
+"remove_dissure"              = "Are you sure you want to remove this?";
+"select_friend"                     = "Please Select Friend to invite";

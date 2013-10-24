@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'iJoomer2.0' target in the 'iJoomer2.0' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
